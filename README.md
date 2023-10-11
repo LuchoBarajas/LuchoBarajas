@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm an colombian economist with a master in economics and experience in public policy, data analysis focused mostly in the educational sector. Currently I'm studying a [Master in Applied Social Data Science](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Applied-Social-Data-Science) at the London School of Economics and Political Science. 
-
+I'm an colombian economist with a master in economics and a master in applied social data science. Currenty working at the [International Innequalities Institute](https://www.lse.ac.uk/international-inequalities) at the London School of Economics and Polítical Science. I hold experience in public policy, data analysis focused mostly in the educational sector.
 📘 Currently, I'm interested in developing new data science skills in order to undertake research projects related to economics of education and human capital.
 
 🧐 I'm convinced that data can provide solutions for educational problems and specifically be used as a tool to make design better public policies and improve educational outcomes 
